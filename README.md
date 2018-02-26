@@ -1,2 +1,4 @@
 # deneme
 deneme
+
+ek detay
