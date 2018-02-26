@@ -1,4 +1,4 @@
 # deneme
-deneme
 
-ek detay
+Taylan
+
